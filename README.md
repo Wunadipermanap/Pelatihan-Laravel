@@ -1,3 +1,3 @@
 # Pelatihan-Laravel
 
-tambahan kata
+Mengubah kata
