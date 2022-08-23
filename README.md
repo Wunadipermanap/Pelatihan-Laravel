@@ -1,4 +1,4 @@
 # Pelatihan-Laravel
 
 Mengubah kata
-branch baru sudah di hapus
+dan branch baru sudah di hapus
